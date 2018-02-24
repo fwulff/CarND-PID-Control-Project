@@ -3,7 +3,7 @@ Self-Driving Car Engineer Nanodegree Program
 Florian Wulff
 ---
 
-![png](./visualization/PID_screenshot.png)
+![png](./visualization/PID_screenshot.jpg)
 
 Videos of the resulting driving around the lake in the simulator can be found in the visualization folder.
 
